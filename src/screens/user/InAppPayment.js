@@ -25,7 +25,7 @@ import Toast from 'react-native-simple-toast';
 
 import moment from 'moment';
 const itemSkus = Platform.select({
-  ios: ['com.example.productId'],
+  ios: ['premium_14.99', 'basic_9.99'],
   android: ['premium_14.99', 'basic_9.99'],
 });
 // const itemSubs = Platform.select({ios: ['test.sub'], android: ['test.sub']});
