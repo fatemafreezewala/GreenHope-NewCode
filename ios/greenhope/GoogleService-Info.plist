@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>792132975940-repe5j9s5pnal0gmlh1cacq5cog8g9kp.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.792132975940-repe5j9s5pnal0gmlh1cacq5cog8g9kp</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>792132975940-hk8tfv5slp2j12v02t0c5es364thkro1.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBgGusfAopVl22Kk9W6EC3RiqxDrmGjtZg</string>
+	<key>GCM_SENDER_ID</key>
+	<string>792132975940</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.greenhopewellness.app</string>
+	<key>PROJECT_ID</key>
+	<string>greenhope-wellnessapp</string>
+	<key>STORAGE_BUCKET</key>
+	<string>greenhope-wellnessapp.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:792132975940:ios:e8517ab46f5e4275846b11</string>
+	<key>DATABASE_URL</key>
+	<string>https://greenhope-wellnessapp.firebaseio.com</string>
+</dict>
+</plist>

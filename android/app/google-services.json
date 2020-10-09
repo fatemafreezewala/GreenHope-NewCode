@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "792132975940",
+    "firebase_url": "https://greenhope-wellnessapp.firebaseio.com",
+    "project_id": "greenhope-wellnessapp",
+    "storage_bucket": "greenhope-wellnessapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:792132975940:android:9e8358fc2bc5946e846b11",
+        "android_client_info": {
+          "package_name": "com.greenhopewellness.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "792132975940-hk8tfv5slp2j12v02t0c5es364thkro1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.greenhopewellness.app",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "792132975940-d27ckbndbb1ph4edlhtinib0gqq3tpt2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANm5nv9v4_2ick3-m4RLtvxm6rdI8tCRw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "792132975940-d27ckbndbb1ph4edlhtinib0gqq3tpt2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "792132975940-repe5j9s5pnal0gmlh1cacq5cog8g9kp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.greenhopewellness.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
